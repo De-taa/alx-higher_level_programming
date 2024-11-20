@@ -1,4 +1,4 @@
-__ List the databse of MySQL server
+-- List the databse of MySQL server
 
 SHOW DATABASES;
 
